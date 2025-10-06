@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import io from "socket.io-client";
+import './App.css';
 import { Line } from "react-chartjs-2";
 import {
   Chart as ChartJS,
