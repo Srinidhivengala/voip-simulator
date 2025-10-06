@@ -1,10 +1,6 @@
 
 # 📡 VOIP Simulator
 
-![GitHub stars](https://img.shields.io/github/stars/Srinidhivengala/voip-simulator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Srinidhivengala/voip-simulator?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 A **Voice Over IP (VoIP) Simulator** designed for testing, learning, and experimenting with VoIP protocols, signaling, and media streaming.
 
 ---
